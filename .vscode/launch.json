@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example1",
+            "request": "launch",
+            "mainClass": "Example1",
+            "projectName": "Algoritmid-ja-andmestruktuurid_8f96d9a4"
+        }
+    ]
+}
